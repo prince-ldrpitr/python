@@ -1,0 +1,6 @@
+tuple = (23,25,26,28,54,65)
+print(type(tuple))
+no=tuple.count(25)
+print(no)
+index=tuple.index(54)
+print(index)
