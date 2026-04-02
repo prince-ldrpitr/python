@@ -1,0 +1,17 @@
+friend = ["janak",33,10000.00]
+print(type(friend))
+print(friend[0])
+friend.append("prince")
+print(friend)
+print(friend[0:2])
+l1=[1,2.3,33,32,56,59]
+l1.sort()
+print(l1)
+l1.reverse()
+print(l1)
+l1.insert(3,30)
+print(l1)
+print(l1.pop(3))
+print(l1)
+l1.remove(56)
+print(l1)
